@@ -1,0 +1,1 @@
+Fitxer de dependències de la nostra aplicació

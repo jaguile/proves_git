@@ -1,0 +1,1 @@
+# Fitxer de configuració de la nostra aplicació
